@@ -6,6 +6,12 @@ How can trypsin-like serine proteases retain the same catalytic mechanism while 
 
 This project connects to comparative genomics through cross-species homolog analysis. **The data analyzed here are protein sequences and protein structures, not whole genomes or nucleotide variants.**
 
+## Tools and techniques
+
+- **Sequence analysis:** BLASTp, Clustal Omega, MUSCLE, and Jalview for homolog selection and multiple sequence alignment
+- **Structural analysis:** Protein Data Bank structures, MolProbity quality review, and ChimeraX MatchMaker for structural superposition
+- **Comparisons:** Catalytic-triad conservation, substrate-binding pocket variation, and RMSD relative to human trypsin-1 (1TRN)
+
 ## At a glance
 
 | Dataset | Analysis |
