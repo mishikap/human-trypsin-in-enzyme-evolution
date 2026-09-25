@@ -1,6 +1,6 @@
 # Human Trypsin-1 (PRSS1) in protein evolution: sequence and structure across species
 
-**Comparative protein structural bioinformatics project | University of Waterloo - BIOL 465 (Structural Bioinformatics) | 2026**
+**Comparative protein Structural Bioinformatics project | University of Waterloo - BIOL 465 (Structural Bioinformatics) | 2026**
 
 How can trypsin-like serine proteases retain the same catalytic mechanism while their substrate-recognition regions vary? I used human trypsin-1 (PRSS1) as a reference and compared protein homologs across species using sequence alignment and structural superposition.
 
