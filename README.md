@@ -1,4 +1,4 @@
-# Human Trypsin-1 (PRSS1) in protein evolution: sequence and structure across species
+# Human Trypsin-1 (PRSS1) in protein evolution: sequence and structure across species 🧬
 
 **Comparative protein Structural Bioinformatics project | University of Waterloo - BIOL 465 (Structural Bioinformatics) | 2026**
 
