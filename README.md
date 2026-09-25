@@ -8,9 +8,9 @@ This project connects to comparative genomics through cross-species homolog anal
 
 ## Tools and techniques
 
-- **Sequence analysis:** BLASTp, Clustal Omega, MUSCLE, and Jalview for homolog selection and multiple sequence alignment
-- **Structural analysis:** Protein Data Bank structures, MolProbity quality review, and ChimeraX MatchMaker for structural superposition
-- **Comparisons:** Catalytic-triad conservation, substrate-binding pocket variation, and RMSD relative to human trypsin-1 (1TRN)
+- **Sequence analysis:** BLASTp, Clustal Omega, MUSCLE, Jalview
+- **Structural analysis:** Protein Data Bank, MolProbity, ChimeraX MatchMaker
+- **Protein comparisons:** Catalytic-triad conservation, substrate-binding pocket variation, RMSD
 
 ## At a glance
 
